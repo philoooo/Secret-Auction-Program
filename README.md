@@ -1,6 +1,6 @@
 <h1 align="center"> Secret Auction Program</h1>
 
-I have created  program to run a secret auction. User are prompted to enter their name and bid amount, which is privately disclosed by clearing the output with newline characters. The program can loop through to add additional bidders. The name and bid amount of all bidders is saved into the bid dictionary. The program then selects the name and amount of the highest bidder! 
+I have created  program to run a secret auction. Users are prompted to enter their name and bid amount, which is privately disclosed by clearing the output with newline characters. The program can loop through to add additional bidders. The name and bid amount of all bidders is saved into the bid dictionary. The program then selects the name and amount of the highest bidder! 
 
 This program can be used for small group auctions, charity fundraisers, or classroom games where participants place secret bids.
 
